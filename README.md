@@ -1,2 +1,2 @@
-# vision
+# amazon-clone
 Created with CodeSandbox
